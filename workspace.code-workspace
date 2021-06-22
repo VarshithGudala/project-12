@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\applesprite.png"
+		},
+		{
+			"path": "..\\..\\leaves sprite.png"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project 12"
+	}
+}
